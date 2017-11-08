@@ -4,7 +4,7 @@
 import socket
 import os
 
-ssid = (str(raw_input("Nome da rede: ")))
+ssid = "Nome da rede: " #Coloque aqui o nome da rede WiFi do alvo
 
 print "WiFi enviado!"
 
